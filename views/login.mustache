@@ -1,0 +1,48 @@
+
+<html>
+<head>
+{{> menu}}
+  {{> header}}
+
+  <script src="https://apis.google.com/js/platform.js" async defer></script>
+  <meta name="google-signin-client_id" content="148401201055-pcf79si70kprngckus340lieifst2f49.apps.googleusercontent.com">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+ 
+  
+</head>
+
+<body>
+<center><h1><b>LOGIN</b></h1><center>
+
+
+<div class="g-signin2" data-onsuccess="onSignIn"> </div>
+
+
+<div class="w-50 p-3" style="background-color: #eee;">
+  <form action='/login' method="POST">
+  <div class="form-group">
+    <label for="exampleInputEmail1">User Name</label>
+    <input type="text" name="username" class="form-control" placeholder="Enter user name">
+
+  </div>
+  <div class="form-group">
+    <label for="exampleInputPassword1">Password</label>
+    <input type="password" name="password" class="form-control" placeholder="Password">
+  </div>
+
+  <button type="submit" class="btn btn-primary">Submit</button>
+  
+  {{#message}}
+    <div class="alert alert-danger" role="alert">
+        {{message}}
+    </div>
+  {{/message}}
+
+</form>
+
+</div>
+
+  {{> footer}}
+
+</body>
+</html>
