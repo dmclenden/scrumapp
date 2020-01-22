@@ -24,6 +24,10 @@ router.get('/', async (req,res) => {
 
 })
 
+router.get('/hello', (req,res,next) => {
+  res.send('Hello World')
+})
+
 router.get('/about',(req,res) => {
   res.render('about')
 })
