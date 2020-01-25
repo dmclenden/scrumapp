@@ -1,5 +1,5 @@
  # Scrum Self-Study
- <br>
+<br>
 An app for people studying for the Professional Scrum Master I exam.
 <br>
 <br>
