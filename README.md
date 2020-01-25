@@ -19,7 +19,12 @@ An app for people studying for the Professional Scrum Master I exam.
 ### Work in progress:
 <br>
 *Google Authentication
+<br>
 *Deploy to Heroku
+<br>
 *PassportJS Local Strategy for authentication
+<br>
+<br>
+<br>
 
 ![website](https://i.imgur.com/giVE1CF.png)
