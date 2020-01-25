@@ -9,7 +9,7 @@ You can register, find recources to help you study, and add and delete notes.
 
 ### Used:
 <br>
-*Node
+* Node
 <br>
 * Express for backend routes
 <br>
