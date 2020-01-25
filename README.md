@@ -5,7 +5,7 @@ An app for people studying for the Professional Scrum Master I exam.
 You can register, find recources to study, and add and delete notes.
 <br>
 <br>
-### Work in progress:
+### Used:
 <br>
 * Express for backend routes
 <br>
