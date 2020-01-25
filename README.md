@@ -3,7 +3,7 @@
 An app for people studying for the Professional Scrum Master I exam.
 <br>
 **Used:**
-* Express for backend routes
+1. Express for backend routes
 * Postgres database
 * Sequelize for ORM
 *Mustache templating
