@@ -14,4 +14,4 @@ Google Authentication
 Deploy to Heroku
 PassportJS Local Strategy for authentication
 
-![website] (https://i.imgur.com/giVE1CF.png)
+![website](https://i.imgur.com/giVE1CF.png)
