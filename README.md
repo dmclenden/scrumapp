@@ -2,18 +2,20 @@
 <br>
 An app for people studying for the Professional Scrum Master I exam.
 <br>
+You can register, find recources to study, and add and delete notes.
 <br>
-### Used:
 <br>
-1. Express for backend routes
+### Work in progress:
 <br>
-1. Postgres database
+* Express for backend routes
 <br>
-1. Sequelize for ORM
+* Postgres database
 <br>
-1. Mustache templating
+* Sequelize for ORM
 <br>
-1. Bootstrap
+* Mustache templating
+<br>
+* Bootstrap
 
 
 ### Work in progress:
