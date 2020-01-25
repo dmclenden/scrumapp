@@ -28,8 +28,6 @@ You can register, find recources to help you study, and add and delete notes.
 <br>
 *Deploy to Heroku
 <br>
-*PassportJS Local Strategy for authentication
-<br>
 <br>
 <br>
 
