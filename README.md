@@ -1,4 +1,5 @@
-<center> #Scrum Self-Study</center>
+ #Scrum Self-Study
+ <br>
 An app for people studying for the Professional Scrum Master I exam.
 
 Used:
