@@ -4,14 +4,16 @@ An app for people studying for the Professional Scrum Master I exam.
 <br>
 <br>
 **Used:**
-Express for backend routes
-* Postgres database
-* Sequelize for ORM
-*Mustache templating
-*Bootstrap
+<br>
+1. Express for backend routes
+1. Postgres database
+1. Sequelize for ORM
+1. Mustache templating
+1. Bootstrap
 
 
 **Work in progress:**
+<br>
 *Google Authentication
 *Deploy to Heroku
 *PassportJS Local Strategy for authentication
