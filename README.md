@@ -13,8 +13,6 @@ You can register, find recources to help you study, and add and delete notes.
 <br>
 * Express for backend routes
 <br>
-*Passport
-<br>
 * Postgres database
 <br>
 * Sequelize for ORM
