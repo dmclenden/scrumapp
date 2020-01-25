@@ -1,6 +1,6 @@
  # Scrum Self-Study
 <br>
-An app for people that are studying for the Professional Scrum Master I exam.
+A website for people that are studying for the Professional Scrum Master I exam.
 <br>
 You can register, find recources to help you study, and add and delete notes.
 <br>
