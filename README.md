@@ -1,7 +1,7 @@
- #Scrum Self-Study
+ # Scrum Self-Study
  <br>
 An app for people studying for the Professional Scrum Master I exam.
-
+<br>
 Used:
 Express for backend routes
 Postgres database
