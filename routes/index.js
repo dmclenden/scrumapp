@@ -105,7 +105,7 @@ router.post('/login',(req,res) => {
             req.session.user = {userId: user.userid, username: user.username}
           }
 
-          res.redirect('/users/articles')
+          res.redirect('/users/resources')
 
         } else {
             res.render('login',{message: "Invalid username or password!"})
