@@ -3,7 +3,7 @@
 An app for people studying for the Professional Scrum Master I exam.
 <br>
 <br>
-**Used:**
+## **Used:**
 <br>
 1. Express for backend routes
 1. Postgres database
@@ -12,7 +12,7 @@ An app for people studying for the Professional Scrum Master I exam.
 1. Bootstrap
 
 
-**Work in progress:**
+## **Work in progress:**
 <br>
 *Google Authentication
 *Deploy to Heroku
